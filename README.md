@@ -6,7 +6,7 @@ go run main.go
 ```
 then make a request to 
 ```
-http://localhost:8080/{cep} where {cep} must be a accetable CEP
+http://localhost:8080/{cep} where {cep} must be an accetable CEP
 ```
 
 
